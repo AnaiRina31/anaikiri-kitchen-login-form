@@ -2,8 +2,7 @@
 
 body{
   font-family: 'Roboto', sans-serif;
-  background: url(../img/anakichi-bgi.jpg) no-repeat center center;
-  background-size: cover;
+  background: #ffdff0;
 }
 
 .main-section{
